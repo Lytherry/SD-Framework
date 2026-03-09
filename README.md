@@ -59,7 +59,7 @@ install.packages(c("nnet", "MASS", "combinat", "Hmisc", "ggplot2", "patchwork", 
 
 The figure below provides an intuitive illustration of the distribution estimates of three quality criteria — **Mean Squared Error (MSE)**, **Average Training Time Per Epoch (ATPE)**, and **Average Inference Time (AIT)** — for seven time series forecasting algorithms across 50 diverse real-world datasets.
 
-![Kernel density estimates of performance metrics](Figures/density_curves.png)
+![Kernel density estimates of performance metrics](figures/density_curves.png)
 
 The next set of figures compares the pairwise evaluation results from **three different statistical frameworks**, applied to the same dataset and algorithm set:
 
@@ -69,13 +69,13 @@ The next set of figures compares the pairwise evaluation results from **three di
 
 In each graph, an arrow `A → B` indicates that algorithm **A statistically outperforms B** on the given criterion at significance level α = 0.05.
 
-![Proposed Framework](Figures/comparisons_proposed.png)  
+![Proposed Framework](figures/comparisons_proposed.png)  
 *Stochastic Dominance Framework*
 
-![Wilcoxon Test](Figures/comparisons_wilcoxon.png)  
+![Wilcoxon Test](figures/comparisons_wilcoxon.png)  
 *Wilcoxon Signed-Rank Test (with BH correction)*
 
-![Friedman Test](Figures/comparisons_friedman.png)  
+![Friedman Test](figures/comparisons_friedman.png)  
 *Friedman-Nemenyi Test*
 
 > **Key Insight**:  
