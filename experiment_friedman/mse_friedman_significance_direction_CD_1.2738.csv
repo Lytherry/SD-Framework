@@ -1,0 +1,8 @@
+"","SegRNN_96_96_mse","ModernTCN_96_96_mse","iTransformer_96_96_mse","MTST_96_96_mse","DLinear_96_96_mse","NLinear_96_96_mse","MTSMixer_96_96_mse"
+"SegRNN_96_96_mse",0,0,0,0,0,0,0
+"ModernTCN_96_96_mse",0,0,0,0,0,0,0
+"iTransformer_96_96_mse",-1,-1,0,0,0,0,0
+"MTST_96_96_mse",0,0,1,0,0,0,0
+"DLinear_96_96_mse",-1,-1,0,-1,0,0,0
+"NLinear_96_96_mse",-1,-1,0,-1,0,0,0
+"MTSMixer_96_96_mse",0,0,1,0,1,1,0

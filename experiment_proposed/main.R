@@ -1,0 +1,7 @@
+# setwd("D:/your_file_path")
+source("experiment_MSE.R", encoding = "UTF-8")
+source("experiment_ATPE.R", encoding = "UTF-8")
+source("experiment_AIT.R", encoding = "UTF-8")
+source("pvalue_correction_BH.R", encoding = "UTF-8")
+source("pvalue_correction_BL.R", encoding = "UTF-8")
+source("density_curves.R", encoding = "UTF-8")

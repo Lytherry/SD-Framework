@@ -1,0 +1,8 @@
+"","SegRNN_96_96_mse","ModernTCN_96_96_mse","iTransformer_96_96_mse","MTST_96_96_mse","DLinear_96_96_mse","NLinear_96_96_mse","MTSMixer_96_96_mse"
+"SegRNN_96_96_mse",NA,NA,NA,NA,NA,NA,NA
+"ModernTCN_96_96_mse",0.842754098360656,NA,NA,NA,NA,NA,NA
+"iTransformer_96_96_mse",0,0,NA,NA,NA,NA,NA
+"MTST_96_96_mse",0.675620689655172,0,0,NA,NA,NA,NA
+"DLinear_96_96_mse",0,0,0,0,NA,NA,NA
+"NLinear_96_96_mse",0,0,0.894193548387097,0.543789473684211,0.954,NA,NA
+"MTSMixer_96_96_mse",0.842754098360656,0,0,0,0,0.522,NA

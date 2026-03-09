@@ -1,0 +1,39 @@
+# ===== Python =====
+__pycache__/
+*.py[cod]
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+env/
+venv/
+.venv/
+.Python
+.ipynb_checkpoints/
+*.pyo
+*.pyd
+.pytest_cache/
+*.log
+.DS_Store
+
+# ===== R =====
+.Rhistory
+.RData
+.Ruserdata
+.Rproj.user/
+.Rapp.history
+.Rproj
+*.Rproj
+.Renviron
+.Rprofile
+
+# ===== Common =====
+# OS-generated files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+*.swp
+*~
+.idea/
+.vscode/

@@ -1,0 +1,8 @@
+"","SegRNN_96_96_ATPE","ModernTCN_96_96_ATPE","iTransformer_96_96_ATPE","MTST_96_96_ATPE","DLinear_96_96_ATPE","NLinear_96_96_ATPE","MTSMixer_96_96_ATPE"
+"SegRNN_96_96_ATPE",0,0,0,0,0,0,0
+"ModernTCN_96_96_ATPE",-1,0,0,0,0,0,0
+"iTransformer_96_96_ATPE",-1,0,0,0,0,0,0
+"MTST_96_96_ATPE",-1,-1,0,0,0,0,0
+"DLinear_96_96_ATPE",0,1,1,1,0,0,0
+"NLinear_96_96_ATPE",1,1,1,1,1,0,0
+"MTSMixer_96_96_ATPE",1,1,1,1,0,0,0

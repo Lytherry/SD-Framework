@@ -1,0 +1,8 @@
+# setwd("D:/your_file_path")
+source("simulation_twocompnormal.R", encoding = "UTF-8")
+source("simulation_normal.R", encoding = "UTF-8")
+source("simulation_gamma.R", encoding = "UTF-8")
+source("calculation_error_rate.R", encoding = "UTF-8")
+source("calculation_FDR.R", encoding = "UTF-8")
+source("plots_errors.R", encoding = "UTF-8")
+source("plots_quantile.R", encoding = "UTF-8")
