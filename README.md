@@ -37,7 +37,7 @@ Create a separate folder named ```./dataset``` and place all the CSV files in th
 
 ### Introduction
 
-This repository also contains the complete implementation of the simulations and experiments described in the paper. The code is organized into the following directories:
+This repository also contains the complete implementation of the simulations and experiments described in the paper. The code (written in R) is organized into the following directories:
 
 - **`simulation`**: Scripts for synthetic data generation and simulation studies designed to assess the statistical power and robustness of the proposed method under controlled settings.
 
